@@ -12,10 +12,18 @@ Autor do projeto : [Mateus Silva](https://www.instagram.com/imateus.silva/)
 
 </h6>
 
-Projeto tem como objetivo aprender conceitos sobre novo ***[React Navigation V5](https://reactnavigation.org/docs/getting-started)*** , onde foi utilizado rotas de navegações, é também novo método de customizar a navegação.
-Também capacidade de analisar e layout e replicalos, assim como suas funcionalidades.
+### Índice
+ - [Sobre](#-Sobre-projeto)
+ - [Etapas](#-📖-Etapas-avançadas)
+ - [Utilização do projeto](#-💻-Como-utilizar-o-projeto)
+ - [Tecnologias](#-💻-Tecnologias-utilizadas)
+ - [Contato](#-Contato)
 
-📖 **Etapas avançadas**
+## Sobre projeto
+Projeto tem como objetivo aprender conceitos sobre novo ***[React Navigation V5](https://reactnavigation.org/docs/getting-started)*** , onde foi utilizado rotas de navegações, é também novo método de customizar a navegação.
+Também capacidade de analisar e layout e replicalos, assim como suas funcionalidades, na vídeo aula o projeto e criado no ***expo***, mas resolvi fazer native...
+
+ ### 📖 Etapas avançadas
 - [x] 1°- Primeira parte Bottom navigation
     > 📣 **Descrição do ocorrido nessa etapa**
     Nesta etapa foi utilizado [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient) , para criar um botão personalizado de pagamento do picpay.(Dificuldade nessa etapa foi implementa esse componet integrado com styled-component, como não conseguir fazer como a [video aula](https://www.youtube.com/watch?v=0CraBZHejKI&t=534s) fiz de outro jeito )
@@ -26,7 +34,7 @@ Também capacidade de analisar e layout e replicalos, assim como suas funcionali
 - [ ] 5°- Construção da interface da notificação
 - [ ] 6°- Construção da interface da ajuste
 
-## 💻Como utilizar o projeto
+## 💻 Como utilizar o projeto
 ```bash
   # Cclone o projeto na sua maquina. 
   $ git clone https://github.com/italoSouzaTI/clone-interface-picpay.git
