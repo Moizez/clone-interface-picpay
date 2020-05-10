@@ -14,9 +14,9 @@ Autor do projeto : [Mateus Silva](https://github.com/maateusilva)
 
 ### Índice
  - [Sobre](#-Sobre-projeto)
- - [Etapas](#-📖-Etapas-avançadas)
- - [Utilização do projeto](#-💻-Como-utilizar-o-projeto)
- - [Tecnologias](#-💻-Tecnologias-utilizadas)
+ - [Etapas](#-Etapas-avançadas)
+ - [Utilização do projeto](#-Como-utilizar-o-projeto)
+ - [Tecnologias](#-Tecnologias-utilizadas)
  - [Contato](#-Contato)
 
 ## Sobre projeto
