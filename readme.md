@@ -6,7 +6,7 @@
 
 <h6 align="center">
 
-Autor do projeto : [Mateus Silva](https://www.instagram.com/imateus.silva/)
+Autor do projeto : [Mateus Silva](https://github.com/maateusilva)
 
 [Video 1](https://www.youtube.com/watch?v=0CraBZHejKI&t=592s) | [Video 2](https://www.youtube.com/watch?v=m5w6GcEhteM&t=18s) | [Video 3](https://www.youtube.com/watch?v=fiuWVbnBIpo)
 
@@ -65,7 +65,7 @@ Também capacidade de analisar e layout e replicalos, assim como suas funcionali
 |styled-components     |**^5.1.0** |
 |yarn     |**^1.22.4** |
 
-**Desenvolvido [Mateus Silva](https://www.instagram.com/imateus.silva/)**
+**Desenvolvido [Mateus Silva](https://github.com/maateusilva)**
 
 #### Contato
 
