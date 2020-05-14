@@ -1,8 +1,8 @@
 import styled from 'styled-components/native';
-
-export const Btn = styled.TouchableWithoutFeedback`
+import LinearGradient from 'react-native-linear-gradient';
+export const Btn = styled(LinearGradient)`
   width: 60px;
-  height: 30px;
+  height: 60px;
   border-radius: 30px;
   justify-content: center;
   align-items: center;

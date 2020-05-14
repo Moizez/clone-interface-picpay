@@ -28,8 +28,8 @@ Também capacidade de analisar e layout e replicalos, assim como suas funcionali
     > 📣 **Descrição do ocorrido nessa etapa**
     Nesta etapa foi utilizado [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient) , para criar um botão personalizado de pagamento do picpay.(Dificuldade nessa etapa foi implementa esse componet integrado com styled-component, como não conseguir fazer como a [video aula](https://www.youtube.com/watch?v=0CraBZHejKI&t=534s) fiz de outro jeito )
 
-- [ ] 2°- Construção da interface inicial
-- [ ] 3°- Construção da interface da carteira
+- [x] 2°- Construção da interface inicial
+- [x] 3°- Construção da interface da carteira
 - [ ] 4°- Construção da interface da pagar
 - [ ] 5°- Construção da interface da notificação
 - [ ] 6°- Construção da interface da ajuste
