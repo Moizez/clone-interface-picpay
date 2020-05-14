@@ -4,20 +4,30 @@
 
 # Clone interface do Picpay(andamento...)
 
+### Índice
+ - [Sobre](#-Sobre-projeto)
+ - [Demo](#-Demo)
+ - [Etapas](#-Etapas-avançadas)
+ - [Utilização do projeto](#-Como-utilizar-o-projeto)
+ - [Tecnologias](#-Tecnologias-utilizadas)
+ - [Contato](#-Contato)
+
 <h6 align="center">
 
 Autor do projeto : [Mateus Silva](https://github.com/maateusilva)
 
 [Video 1](https://www.youtube.com/watch?v=0CraBZHejKI&t=592s) | [Video 2](https://www.youtube.com/watch?v=m5w6GcEhteM&t=18s) | [Video 3](https://www.youtube.com/watch?v=fiuWVbnBIpo)
 
+## Demo
 </h6>
 
-### Índice
- - [Sobre](#-Sobre-projeto)
- - [Etapas](#-Etapas-avançadas)
- - [Utilização do projeto](#-Como-utilizar-o-projeto)
- - [Tecnologias](#-Tecnologias-utilizadas)
- - [Contato](#-Contato)
+<h1 align="center">
+
+![clonePicPay](https://user-images.githubusercontent.com/52186505/81974948-ae7dd200-95fc-11ea-9075-db8c68b86e40.gif)
+</h1>
+
+
+
 
 ## Sobre projeto
 Projeto tem como objetivo aprender conceitos sobre novo ***[React Navigation V5](https://reactnavigation.org/docs/getting-started)*** , onde foi utilizado rotas de navegações, é também novo método de customizar a navegação.
